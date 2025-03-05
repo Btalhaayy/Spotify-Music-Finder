@@ -11,13 +11,13 @@ npm install
 ```
 
 ### Usage
-To use the Spotify Playlist Analyzer, follow these steps:
+**To use the Spotify Playlist Analyzer, follow these steps:**
 
-Initialize the Spotify API: Ensure you have valid Spotify API credentials. Replace the placeholder credentials in the code with your own.
+**Initialize the Spotify API**: Ensure you have valid Spotify API credentials. Replace the placeholder credentials in the code with your own.
 
-Fetch Playlist Tracks: Input a Spotify playlist URL to retrieve and display the list of tracks.
+**Fetch Playlist Tracks**: Input a Spotify playlist URL to retrieve and display the list of tracks.
 
-Search on YouTube: Select a track to perform a YouTube search and view the results.
+**Search on YouTube**: Select a track to perform a YouTube search and view the results.
 
 #### Example Command
 To initialize the Spotify API and fetch playlist tracks:
@@ -34,7 +34,7 @@ initializeSpotify().then(success => {
 Ensure you replace the placeholder Spotify API credentials with your own. The application requires a valid client ID and secret to function properly.
 
 Contributing
-Fork the repository: https://github.com/btalhaayy/spotify-playlist-analyzer/fork
+**Fork the repository**: https://github.com/btalhaayy/spotify-playlist-analyzer/fork
 Create your feature branch: git checkout -b feature/fooBar
 Commit your changes: git commit -am 'Add some fooBar'
 Push to the branch: git push origin feature/fooBar
