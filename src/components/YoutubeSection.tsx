@@ -13,8 +13,8 @@ interface YoutubeResult {
   videoId: string;
 }
 
-// YouTube API Key'inizi buraya ekleyin
-const YOUTUBE_API_KEY = 'AIzaSyB5d4FmO5kov88crlGYBDCXKNdcD-uFYIA';
+// Add your YouTube API Key here
+const YOUTUBE_API_KEY = '';
 
 function YoutubeSection({ currentTrack }: YoutubeSectionProps) {
   const [results, setResults] = useState<YoutubeResult[]>([]);
