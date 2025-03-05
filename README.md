@@ -1,7 +1,7 @@
 # **About Spotify Playlist Analyzer**
 Is it just me or is managing Spotify playlists a bit too cumbersome? Want something simpler in life? Something made for music lovers? Try Spotify Playlist Analyzer — a JavaScript application that fetches tracks from a Spotify playlist and allows you to search for them on YouTube.
 
-##Installation
+## Installation
 To get started, clone this repository and install the necessary dependencies.
 
 ```bash
