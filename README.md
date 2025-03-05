@@ -32,14 +32,3 @@ initializeSpotify().then(success => {
 ```
 #### Disclaimer
 Ensure you replace the placeholder Spotify API credentials with your own. The application requires a valid client ID and secret to function properly.
-
-Contributing
-**Fork the repository**: https://github.com/btalhaayy/spotify-playlist-analyzer/fork
-
-Create your feature branch: git checkout -b feature/fooBar
-
-Commit your changes: git commit -am 'Add some fooBar'
-
-Push to the branch: git push origin feature/fooBar
-
-Create a new Pull Request
