@@ -22,7 +22,7 @@ function ExampleSection() {
 
         <div className="bg-gray-700 p-4 rounded">
           <h3 className="font-semibold mb-2">Step 3: Watch on YouTube</h3>
-          <p className="text-gray-400">Choose from the YouTube results and click to watch the video</p>
+          <p className="text-gray-400">Choose from the YouTube results and click to watch the video!</p>
         </div>
       </div>
     </div>
