@@ -2,12 +2,11 @@ import SpotifyWebApi from 'spotify-web-api-js';
 
 const spotifyApi = new SpotifyWebApi();
 
-// Type guard to check if the track is a music track
 function isMusicTrack(track: any): track is SpotifyApi.TrackObjectFull {
   return 'artists' in track;
 }
 
-// Initialize the API
+// Add your Spotify API Key here
 export const initializeSpotify = async () => {
   try {
     const response = await fetch('https://accounts.spotify.com/api/token', {
