@@ -39,7 +39,7 @@ function App() {
         <div className="container mx-auto flex items-center justify-between">
           <div className="flex items-center gap-2">
             <Music className="h-8 w-8 text-green-500" />
-            <h1 className="text-2xl font-bold">Spotify to YouTube Converter</h1>
+            <h1 className="text-2xl font-bold">Spotify to YouTube Converter </h1>
           </div>
           <div className="flex items-center gap-2">
             <Youtube className="h-8 w-8 text-red-500" />
